@@ -1,0 +1,37 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 20px;
+  background: #ececec;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0 10px;
+}
+
+#dt-table_wrapper {
+  width: 35%;
+  margin-right: 2%;
+}
+
+#chart {
+  width: 63%;
+}
+
+table {
+  text-align: left;
+}
+
+@media screen and (max-width: 1200px) {
+  #dt-table_wrapper,
+  #chart {
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  #dt-table_wrapper {
+    margin-right: 0;
+  }
+}
