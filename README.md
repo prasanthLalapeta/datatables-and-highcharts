@@ -4,6 +4,6 @@ Load your own data in `dataSet` located in `js/main.js` and do comparisions, fil
 
 And open `index.html` file in your browser and play around it :)
 
-Even app is line in https://poc-table-comparision.herokuapp.com/
+Even app is live in https://poc-table-comparision.herokuapp.com/
 
 Have fun 😄
